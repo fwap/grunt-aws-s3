@@ -31,7 +31,7 @@
     "aws-sdk": "2.x",
     "mime-types": "2.0.x",
     "lodash": "4.17.x",
-    "async": "0.9.x",
+    "async": "2.x",
     "progress": "1.1.x"
   },
   "devDependencies": {
